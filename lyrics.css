@@ -1,0 +1,61 @@
+
+  body
+  {
+      background-color: black ;
+  }
+  .home:hover
+  {
+    text-decoration: none;
+  }
+  #header
+{
+
+  height: 198px;
+  background-color: black;
+  padding-bottom: 50px;
+
+}
+#title1
+{
+  text-decoration-color: solid white;
+}
+#lyrics
+{
+  margin-top:23px;
+  background-color: black;
+  width: 30vw;
+  height: auto;
+  margin-left: 5vw;
+
+}
+
+.facebook
+{
+  background-color: white;
+}
+.icon
+{
+  height: 40px;
+  width: 40px;
+}
+#lyric
+{
+  color: white;
+}
+
+#art
+{
+
+  margin-top:23px;
+  background-color: black;
+  width: 450px;
+  height: auto;
+  margin-right: 20vw;
+
+
+}
+.art
+{
+  width: 425px;
+  height: 425px;
+}
